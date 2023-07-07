@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\03-Variablespuntoflotante\bin\Debug\03-Variablespuntoflotante.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\03-Variablespuntoflotante\bin\Debug\03-Variablespuntoflotante.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\03-Variablespuntoflotante\bin\Debug\03-Variablespuntoflotante.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\03-Variablespuntoflotante\obj\Debug\03-Variablespuntoflotante.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\03-Variablespuntoflotante\obj\Debug\03-Variablespuntoflotante.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\03-Variablespuntoflotante\obj\Debug\03-Variablespuntoflotante.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\03-Variablespuntoflotante\obj\Debug\03-Variablespuntoflotante.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\03-Variablespuntoflotante\obj\Debug\03-Variablespuntoflotante.pdb

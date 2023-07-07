@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.pdb

@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\PruebaPuntoFlotante\bin\Debug\PruebaPuntoFlotante.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\PruebaPuntoFlotante\bin\Debug\PruebaPuntoFlotante.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\PruebaPuntoFlotante\bin\Debug\PruebaPuntoFlotante.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\PruebaPuntoFlotante\obj\Debug\PruebaPuntoFlotante.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\PruebaPuntoFlotante\obj\Debug\PruebaPuntoFlotante.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\PruebaPuntoFlotante\obj\Debug\PruebaPuntoFlotante.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\PruebaPuntoFlotante\obj\Debug\PruebaPuntoFlotante.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\PruebaPuntoFlotante\obj\Debug\PruebaPuntoFlotante.pdb

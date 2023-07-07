@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\04-OtrosTipoDatosNumericos\bin\Debug\04-OtrosTipoDatosNumericos.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\04-OtrosTipoDatosNumericos\bin\Debug\04-OtrosTipoDatosNumericos.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\04-OtrosTipoDatosNumericos\bin\Debug\04-OtrosTipoDatosNumericos.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\04-OtrosTipoDatosNumericos\obj\Debug\04-OtrosTipoDatosNumericos.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\04-OtrosTipoDatosNumericos\obj\Debug\04-OtrosTipoDatosNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\04-OtrosTipoDatosNumericos\obj\Debug\04-OtrosTipoDatosNumericos.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\04-OtrosTipoDatosNumericos\obj\Debug\04-OtrosTipoDatosNumericos.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\04-OtrosTipoDatosNumericos\obj\Debug\04-OtrosTipoDatosNumericos.pdb

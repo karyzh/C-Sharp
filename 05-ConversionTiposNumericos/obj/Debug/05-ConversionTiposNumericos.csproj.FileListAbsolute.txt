@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\05-ConversionTiposNumericos\bin\Debug\05-ConversionTiposNumericos.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\05-ConversionTiposNumericos\bin\Debug\05-ConversionTiposNumericos.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\05-ConversionTiposNumericos\bin\Debug\05-ConversionTiposNumericos.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.pdb

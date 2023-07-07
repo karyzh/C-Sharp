@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\02-Variables\bin\Debug\02-Variables.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\02-Variables\bin\Debug\02-Variables.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\02-Variables\bin\Debug\02-Variables.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\02-Variables\obj\Debug\02-Variables.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\02-Variables\obj\Debug\02-Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\02-Variables\obj\Debug\02-Variables.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\02-Variables\obj\Debug\02-Variables.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\02-Variables\obj\Debug\02-Variables.pdb

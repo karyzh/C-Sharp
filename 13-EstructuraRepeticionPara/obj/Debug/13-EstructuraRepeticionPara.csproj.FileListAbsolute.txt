@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\13-EstructuraRepeticionPara\bin\Debug\13-EstructuraRepeticionPara.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\13-EstructuraRepeticionPara\bin\Debug\13-EstructuraRepeticionPara.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\13-EstructuraRepeticionPara\bin\Debug\13-EstructuraRepeticionPara.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\13-EstructuraRepeticionPara\obj\Debug\13-EstructuraRepeticionPara.pdb

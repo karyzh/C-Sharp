@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\12-EstructuraRepeticionWhile\bin\Debug\12-EstructuraRepeticionWhile.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\12-EstructuraRepeticionWhile\bin\Debug\12-EstructuraRepeticionWhile.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\12-EstructuraRepeticionWhile\bin\Debug\12-EstructuraRepeticionWhile.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.pdb

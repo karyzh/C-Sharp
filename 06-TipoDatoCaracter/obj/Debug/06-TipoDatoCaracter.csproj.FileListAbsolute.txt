@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\06-TipoDatoCaracter\bin\Debug\06-TipoDatoCaracter.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\06-TipoDatoCaracter\bin\Debug\06-TipoDatoCaracter.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\06-TipoDatoCaracter\bin\Debug\06-TipoDatoCaracter.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\06-TipoDatoCaracter\obj\Debug\06-TipoDatoCaracter.pdb

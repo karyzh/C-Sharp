@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\14-EstructurasFORAnidadas\bin\Debug\14-EstructurasFORAnidadas.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\14-EstructurasFORAnidadas\bin\Debug\14-EstructurasFORAnidadas.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\14-EstructurasFORAnidadas\bin\Debug\14-EstructurasFORAnidadas.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\14-EstructurasFORAnidadas\obj\Debug\14-EstructurasFORAnidadas.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\14-EstructurasFORAnidadas\obj\Debug\14-EstructurasFORAnidadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\14-EstructurasFORAnidadas\obj\Debug\14-EstructurasFORAnidadas.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\14-EstructurasFORAnidadas\obj\Debug\14-EstructurasFORAnidadas.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\14-EstructurasFORAnidadas\obj\Debug\14-EstructurasFORAnidadas.pdb

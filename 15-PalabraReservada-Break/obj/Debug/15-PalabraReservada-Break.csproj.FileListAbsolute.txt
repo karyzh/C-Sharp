@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\15-PalabraReservada-Break\bin\Debug\15-PalabraReservada-Break.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\15-PalabraReservada-Break\bin\Debug\15-PalabraReservada-Break.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\15-PalabraReservada-Break\bin\Debug\15-PalabraReservada-Break.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.pdb

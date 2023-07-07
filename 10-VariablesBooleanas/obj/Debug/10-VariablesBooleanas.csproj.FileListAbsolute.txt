@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\10-VariablesBooleanas\bin\Debug\10-VariablesBooleanas.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\10-VariablesBooleanas\bin\Debug\10-VariablesBooleanas.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\10-VariablesBooleanas\bin\Debug\10-VariablesBooleanas.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.pdb

@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\11-Alcance\bin\Debug\11-Alcance.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\11-Alcance\bin\Debug\11-Alcance.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\11-Alcance\bin\Debug\11-Alcance.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\11-Alcance\obj\Debug\11-Alcance.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\11-Alcance\obj\Debug\11-Alcance.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\11-Alcance\obj\Debug\11-Alcance.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\11-Alcance\obj\Debug\11-Alcance.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\11-Alcance\obj\Debug\11-Alcance.pdb

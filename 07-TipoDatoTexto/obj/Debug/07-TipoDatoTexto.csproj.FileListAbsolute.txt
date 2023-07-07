@@ -1,0 +1,8 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\07-TipoDatoTexto\bin\Debug\07-TipoDatoTexto.exe.config
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\07-TipoDatoTexto\bin\Debug\07-TipoDatoTexto.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\07-TipoDatoTexto\bin\Debug\07-TipoDatoTexto.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\Curso-Csharp\07-TipoDatoTexto\obj\Debug\07-TipoDatoTexto.pdb
