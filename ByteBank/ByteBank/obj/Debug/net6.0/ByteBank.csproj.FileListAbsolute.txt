@@ -1,0 +1,15 @@
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.exe
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.dll
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.dll
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\refint\ByteBank.dll
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+C:\Users\lina2\OneDrive\Documentos\CursoCSharp\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
