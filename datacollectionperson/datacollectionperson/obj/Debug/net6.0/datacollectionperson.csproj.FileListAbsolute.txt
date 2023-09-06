@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\bin\Debug\net6.0\datacollectionperson.exe
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\bin\Debug\net6.0\datacollectionperson.deps.json
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\bin\Debug\net6.0\datacollectionperson.runtimeconfig.json
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\bin\Debug\net6.0\datacollectionperson.dll
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\bin\Debug\net6.0\datacollectionperson.pdb
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\datacollectionperson.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\datacollectionperson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\datacollectionperson.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\datacollectionperson.AssemblyInfo.cs
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\datacollectionperson.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\datacollectionperson.dll
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\refint\datacollectionperson.dll
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\datacollectionperson.pdb
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\datacollectionperson.genruntimeconfig.cache
+C:\Users\admin\Documents\Practicas VS\datacollectionperson\datacollectionperson\obj\Debug\net6.0\ref\datacollectionperson.dll
